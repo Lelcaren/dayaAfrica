@@ -1,0 +1,15 @@
+{
+  "locofyConfig": {
+    "project": "Daya Website (Copy)",
+    "id": "2mTTS2FdX5LnLO4Muzb1vDbitKH",
+    "framework": "react-nextjs",
+    "typescript": false,
+    "styling": "Tailwind",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "c:\\Users\\LENOVO\\Desktop\\dayaAfricafinal\\src\\components",
+    "screensPath": "c:\\Users\\LENOVO\\Desktop\\dayaAfricafinal\\src\\pages"
+  },
+  "compile-hero.disable-compile-files-on-did-save-code": false
+}
