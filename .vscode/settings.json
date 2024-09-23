@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "Daya Website/ (Copy)",
+    "id": "2mD6pVtOA4FQc9jdWe4hCwoZyYV",
+    "framework": "react-nextjs",
+    "typescript": false,
+    "styling": "Tailwind",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "c:\\Users\\LENOVO\\Desktop\\dayaAfrica\\src\\components",
+    "screensPath": "c:\\Users\\LENOVO\\Desktop\\dayaAfrica\\src\\pages"
+  }
+}
